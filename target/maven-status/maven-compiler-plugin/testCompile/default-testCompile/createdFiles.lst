@@ -1,0 +1,7 @@
+Pages\ResultsPage.class
+Steps\SearchStep.class
+Base\BaseUtils.class
+Runner\TestRunner.class
+Pages\DetailsPage.class
+Pages\SearchPage.class
+Steps\Hook.class
